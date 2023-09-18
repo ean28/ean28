@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Gian De las Llagas</h1>
 <h3 align="center">A dedicated and detail-oriented full-stack software engineer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giandelasllagas" alt="giandelasllagas" /></a> </p>
-
 - 🔭 I’m currently working on [Budgeting App using React Router](https://github.com/giandelasllagas/react-router-budgeting-app)
 
 - 📫 How to reach me **giandelasllagas28@gmail.com**
