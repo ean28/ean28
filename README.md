@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Budgeting App using React Router](https://github.com/giandelasllagas/react-router-budgeting-app)
 
-- 📫 How to reach me **giandelasllagas28@gmail.com**
+- 📫 Reach me at: **giandelasllagas28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
