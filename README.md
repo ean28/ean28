@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gian De las Llagas</h1>
-<h3 align="center">A dedicated and detail-oriented full-stack software engineer.</h3>
+<h3 align="center">Dedicated to learning</h3>
 
 - 🔭 I’m currently working on [Budgeting App using React Router](https://github.com/giandelasllagas/react-router-budgeting-app)
 
