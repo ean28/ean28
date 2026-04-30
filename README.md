@@ -1,97 +1,90 @@
-<h1 align="center">Hi, I'm Gian De las Llagas 👋</h1>
+<h1 align="center">Gian De las Llagas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Android+Developer;Full-Stack+Explorer;System+Builder;Clean+Architecture+Learner" />
+  Mobile Developer • Full-Stack Engineer • Systems Learner
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
-
----
-
-## ⚡ About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>  
-  I build mobile systems, APIs, and scalable applications while learning real-world architecture.
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=2F81F7&center=true&vCenter=true&width=500&lines=Android+%7C+Kotlin+%7C+Flutter+%7C+Backend+Integration;Clean+Architecture+%7C+API+Design+%7C+System+Thinking" />
 </p>
 
 ---
 
-## 📊 GitHub Dashboard
+## About
+
+I am a software developer focused on building scalable mobile and backend systems.  
+My current work revolves around Android development, API integration, and architecture design using modern software engineering practices.
+
+I enjoy understanding systems deeply rather than just building features.
+
+---
+
+## Current Work
+
+- Building **StreetScan** (Mobile + Desktop system)
+- Android development using **Kotlin + Clean Architecture**
+- API-driven feature development and data integration
+- Exploring system design and modular architectures
+
+---
+
+## Technical Stack
+
+### Mobile
+- Kotlin (Android)
+- Flutter
+- React Native
+
+### Backend & APIs
+- Node.js
+- Firebase
+- PHP
+- REST APIs (Retrofit / OkHttp)
+
+### Databases
+- MySQL
+- MariaDB
+
+### Tools & Scripting
+- Python
+- Git / GitHub
+- Selenium (automation)
+- Puppeteer (web automation)
+- Qt (desktop applications exploration)
+
+---
+
+## Focus Areas
+
+- Clean Architecture (MVVM)
+- Offline-first mobile systems
+- Dependency Injection (Hilt / Koin)
+- API design and integration
+- Data processing pipelines
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ean28&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ean28&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ean28&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ean28&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ean28&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ean28&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Tech Stack (Visual)
+## Contact
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,react,ts,js,nodejs,php,python,java,cs" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,mariadb,git,github,linux" />
-</p>
+- Email: **giandelasllagas28@gmail.com**
+- LinkedIn: https://linkedin.com/in/gianbd
 
 ---
 
-## 📈 Activity Graph
+## Philosophy
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ean28&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ean28&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🧠 Current Focus
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Android-MVVM-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-Design-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API-Retrofit-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DI-Hilt%20%2F%20Koin-purple?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🔥 Coding Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="250"/>
-</p>
-
----
-
-## 📫 Connect
-
-<p align="center">
-  <a href="mailto:giandelasllagas28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/gianbd">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://instagram.com/gianbd_">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
-  </a>
-</p>
+> Build systems that are maintainable, not just functional.  
+> Understand the architecture before optimizing the implementation.
