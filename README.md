@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Gian B. De las Llagas</h1>
-<h3 align="center">Computer Science Student | Android Developer Intern | Backend & Systems Enthusiast</h3>
+<h3 align="center">Android Developer Intern | Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ean28&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
 ---
@@ -10,8 +10,8 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **StreetScan (Mobile + Desktop)**
-- 📱 Android development intern focusing on **Kotlin, Clean Architecture, and AI integration**
-- 🧠 Interested in **system design, backend architecture, and mobile scalability**
+- 📱 Android intern focused on **Kotlin, Clean Architecture, and scalable app design**
+- 🧠 Interested in **system design, backend architecture, and AI-powered applications**
 - 📫 Reach me at: **giandelasllagas28@gmail.com**
 
 ---
@@ -33,14 +33,14 @@
   <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,mariadb" />
 </p>
 
-### Tools & DevOps
+### Tools & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ean28&show_icons=true&theme=tokyonight" height="170"/>
@@ -55,11 +55,12 @@
 
 ## 📌 Current Focus
 
-- Modular Android architecture (multi-module setup)
-- Room DB + Repository pattern optimization
-- AI-assisted features (OCR, NLP, classification)
-- API integration (Retrofit + OkHttp)
-- Clean architecture enforcement (DI + StateFlow)
+- Multi-module Android architecture
+- Room DB + Repository pattern design
+- OCR + AI-assisted processing (Gemini integration)
+- Retrofit + OkHttp API systems
+- StateFlow-based reactive UI architecture
+- Dependency Injection (Hilt / Koin evaluation)
 
 ---
 
@@ -82,6 +83,6 @@
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Note
 
-I break things → then rebuild them cleaner, scalable, and production-ready.
+Building systems that scale — not just apps that work.
