@@ -80,9 +80,3 @@
     <img src="https://skillicons.dev/icons?i=youtube" />
   </a>
 </p>
-
----
-
-## ⚡ Note
-
-Building systems that scale — not just apps that work.
