@@ -1,90 +1,87 @@
-<h1 align="center">Gian De las Llagas</h1>
+<h1 align="center">Hi, I'm Gian B. De las Llagas</h1>
+<h3 align="center">Computer Science Student | Android Developer Intern | Backend & Systems Enthusiast</h3>
 
 <p align="center">
-  Mobile Developer • Full-Stack Engineer • Systems Learner
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=2F81F7&center=true&vCenter=true&width=500&lines=Android+%7C+Kotlin+%7C+Flutter+%7C+Backend+Integration;Clean+Architecture+%7C+API+Design+%7C+System+Thinking" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ean28&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## About
+## 🚀 About Me
 
-I am a software developer focused on building scalable mobile and backend systems.  
-My current work revolves around Android development, API integration, and architecture design using modern software engineering practices.
-
-I enjoy understanding systems deeply rather than just building features.
-
----
-
-## Current Work
-
-- Building **StreetScan** (Mobile + Desktop system)
-- Android development using **Kotlin + Clean Architecture**
-- API-driven feature development and data integration
-- Exploring system design and modular architectures
+- 🔭 Currently working on **StreetScan (Mobile + Desktop)**
+- 📱 Android development intern focusing on **Kotlin, Clean Architecture, and AI integration**
+- 🧠 Interested in **system design, backend architecture, and mobile scalability**
+- 📫 Reach me at: **giandelasllagas28@gmail.com**
 
 ---
 
-## Technical Stack
+## 🧰 Tech Stack
 
-### Mobile
-- Kotlin (Android)
-- Flutter
-- React Native
-
-### Backend & APIs
-- Node.js
-- Firebase
-- PHP
-- REST APIs (Retrofit / OkHttp)
-
-### Databases
-- MySQL
-- MariaDB
-
-### Tools & Scripting
-- Python
-- Git / GitHub
-- Selenium (automation)
-- Puppeteer (web automation)
-- Qt (desktop applications exploration)
-
----
-
-## Focus Areas
-
-- Clean Architecture (MVVM)
-- Offline-first mobile systems
-- Dependency Injection (Hilt / Koin)
-- API design and integration
-- Data processing pipelines
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ean28&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ean28&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,javascript,typescript,cs,php" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ean28&theme=github-dark&hide_border=true"/>
+### Mobile & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,html,css" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,mariadb" />
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
 </p>
 
 ---
 
-## Contact
+## 📊 GitHub Analytics
 
-- Email: **giandelasllagas28@gmail.com**
-- LinkedIn: https://linkedin.com/in/gianbd
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ean28&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ean28&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ean28&theme=tokyonight" />
+</p>
 
 ---
 
-## Philosophy
+## 📌 Current Focus
 
-> Build systems that are maintainable, not just functional.  
-> Understand the architecture before optimizing the implementation.
+- Modular Android architecture (multi-module setup)
+- Room DB + Repository pattern optimization
+- AI-assisted features (OCR, NLP, classification)
+- API integration (Retrofit + OkHttp)
+- Clean architecture enforcement (DI + StateFlow)
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/gianbd">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/gianbd_">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://facebook.com/eyyemmgroot">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="https://youtube.com/c/uceejarxwbya7zutrs3qr14q">
+    <img src="https://skillicons.dev/icons?i=youtube" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I break things → then rebuild them cleaner, scalable, and production-ready.
