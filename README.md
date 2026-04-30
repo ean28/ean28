@@ -95,11 +95,3 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
-
----
-
-## ✨ Dev Quote
-
-<p align="center">
-  <i>"Good code is not written. It is rewritten until it feels obvious."</i>
-</p>
