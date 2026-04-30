@@ -1,26 +1,105 @@
-<h1 align="center">Hi, I'm Gian De las Llagas</h1>
-<h3 align="center">Dedicated to learning</h3>
+<h1 align="center">Hi, I'm Gian De las Llagas 👋</h1>
 
-- 🔭 I’m currently working on StreetScan(Mobile and Desktop)
-
-- 📫 Reach me at: **giandelasllagas28@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gianbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gianbd" height="30" width="40" /></a>
-<a href="https://fb.com/eyyemmgroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eyyemmgroot" height="30" width="40" /></a>
-<a href="https://instagram.com/gianbd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gianbd_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uceejarxwbya7zutrs3qr14q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceejarxwbya7zutrs3qr14q" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Android+Developer;Full-Stack+Explorer;System+Builder;Clean+Architecture+Learner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ean28&show_icons=true&theme=dark&locale=en&layout=compact" alt="ean28" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ean28&show_icons=true&theme=dark&locale=en" alt="ean28" /></p>
+## ⚡ About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ean28&theme=dark" alt="ean28" /></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>  
+  I build mobile systems, APIs, and scalable applications while learning real-world architecture.
+</p>
+
+---
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ean28&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ean28&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ean28&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Tech Stack (Visual)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,react,ts,js,nodejs,php,python,java,cs" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,mariadb,git,github,linux" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ean28&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ean28&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🧠 Current Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Android-MVVM-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-Design-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-Retrofit-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DI-Hilt%20%2F%20Koin-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🔥 Coding Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="250"/>
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="mailto:giandelasllagas28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/gianbd">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/gianbd_">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
+  </a>
+</p>
+
+---
+
+## ✨ Dev Quote
+
+<p align="center">
+  <i>"Good code is not written. It is rewritten until it feels obvious."</i>
+</p>
