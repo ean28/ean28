@@ -42,12 +42,12 @@ I'm a full-stack developer from the Philippines, working remotely worldwide. I b
   <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,ts,cs,php,bash,flutter,androidstudio,react,wordpress,html,css,sass,nodejs,firebase,mysql,opencv,pytorch,git,github,githubactions,docker,cloudflare,gcp,postman,selenium,vscode,linux&perline=10" alt="Tech stack" />
 </p>
 
-## 🐍 Contributions
+## 📊 Contributions
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ean28/ean28/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/ean28/ean28/output/github-snake.svg" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ean28/ean28/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="https://raw.githubusercontent.com/ean28/ean28/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution chart" width="100%" />
   </picture>
 </p>
 
