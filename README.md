@@ -42,7 +42,20 @@ I'm a full-stack developer from the Philippines, working remotely worldwide. I b
   <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,ts,cs,php,bash,flutter,androidstudio,react,wordpress,html,css,sass,nodejs,firebase,mysql,opencv,pytorch,git,github,githubactions,docker,cloudflare,gcp,postman,selenium,vscode,linux&perline=10" alt="Tech stack" />
 </p>
 
-## 📊 Contributions
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ean28&show_icons=true&theme=tokyonight&hide_border=true&title_color=24c6dc&icon_color=24c6dc" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ean28&layout=compact&theme=tokyonight&hide_border=true&title_color=24c6dc" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ean28&theme=tokyonight&hide_border=true&ring=24c6dc&fire=24c6dc&currStreakLabel=24c6dc" width="80%" />
+</p>
+
+## 📈 Contributions
 
 <p align="center">
   <picture>
